@@ -13,8 +13,7 @@ dependencies:
 
   hive:
     git: 
-      url: https://github.com/daanporon/hive.git
-      ref: delete-if-exists
+      url: https://github.com/hivedb/hive.git
 
 dev_dependencies:
   flutter_test:
